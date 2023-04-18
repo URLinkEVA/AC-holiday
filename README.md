@@ -1,7 +1,9 @@
 # AC-holiday
 
 ## 介绍
-春夏秋冬季刷题
+冬春夏秋季刷题
+
+winter->spring->summer->autumn
 
 ## 参与贡献
 - Fork 本仓库
