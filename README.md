@@ -1,12 +1,15 @@
 # AC-holiday
 
 ## 介绍
-寒暑假刷题
+春夏秋冬季刷题
 
 ## 参与贡献
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+- Fork 本仓库
+- 新建 Feat_xxx 分支
+- 提交代码
+- 新建 Pull Request
+
+## todo
+可能会有不定期触类旁通的讲解
 
 
